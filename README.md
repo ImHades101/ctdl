@@ -1,7 +1,7 @@
 # ctdl
 11_6_20
-#author: 𝖍𝖆𝖉𝖊𝖘#5218
-#Đề tài:
+* author: 𝖍𝖆𝖉𝖊𝖘#5218
+# Đề tài:
   - Web shopee
     + Các chức năng của người bán (quản lý bán hàng)
     + Các chức năng cảu người mua (mua sắm thoải mái, giỏ hàng, thanh toán, đánh giá sao, etc...)
